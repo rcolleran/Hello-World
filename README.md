@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-A description
+A description of this project.
